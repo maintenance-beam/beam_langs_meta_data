@@ -2,20 +2,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2022-02-09T15:36:22Z",
-        "id": 56292364,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "RA_kwDOABLXGs4DWvQM",
-        "size": 6235077,
-        "state": "uploaded",
-        "updated_at": "2022-02-09T15:37:12Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/56292364"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2022-02-09T15:36:16Z",
@@ -28,6 +14,20 @@
         "updated_at": "2022-02-09T15:37:12Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/56292351"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2022-02-09T15:36:22Z",
+        "id": 56292364,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "RA_kwDOABLXGs4DWvQM",
+        "size": 6235077,
+        "state": "uploaded",
+        "updated_at": "2022-02-09T15:37:12Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/56292364"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/59137653/assets",
@@ -51,20 +51,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2022-01-13T09:58:20Z",
-        "id": 53864876,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "RA_kwDOABLXGs4DNems",
-        "size": 6232992,
-        "state": "uploaded",
-        "updated_at": "2022-01-13T09:58:51Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/53864876"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2022-01-13T09:58:15Z",
@@ -77,6 +63,20 @@
         "updated_at": "2022-01-13T09:58:51Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/53864864"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2022-01-13T09:58:20Z",
+        "id": 53864876,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "RA_kwDOABLXGs4DNems",
+        "size": 6232992,
+        "state": "uploaded",
+        "updated_at": "2022-01-13T09:58:51Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/53864876"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/56998673/assets",
@@ -100,20 +100,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-12-14T22:40:15Z",
-        "id": 51784296,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "RA_kwDOABLXGs4DFipo",
-        "size": 6233766,
-        "state": "uploaded",
-        "updated_at": "2021-12-14T22:40:47Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/51784296"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-12-14T22:40:11Z",
@@ -126,6 +112,20 @@
         "updated_at": "2021-12-14T22:40:47Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/51784293"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-12-14T22:40:15Z",
+        "id": 51784296,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "RA_kwDOABLXGs4DFipo",
+        "size": 6233766,
+        "state": "uploaded",
+        "updated_at": "2021-12-14T22:40:47Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/51784296"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/55319191/assets",
@@ -149,20 +149,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-12-03T18:25:36Z",
-        "id": 50943934,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "RA_kwDOABLXGs4DCVe-",
-        "size": 6230020,
-        "state": "uploaded",
-        "updated_at": "2021-12-03T18:25:51Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/50943934"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-12-03T18:25:32Z",
@@ -175,6 +161,20 @@
         "updated_at": "2021-12-03T18:25:51Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/50943932"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-12-03T18:25:36Z",
+        "id": 50943934,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "RA_kwDOABLXGs4DCVe-",
+        "size": 6230020,
+        "state": "uploaded",
+        "updated_at": "2021-12-03T18:25:51Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/50943934"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/54599470/assets",
@@ -198,20 +198,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-11-16T20:48:09Z",
-        "id": 49611889,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "RA_kwDOABLXGs4C9QRx",
-        "size": 6226682,
-        "state": "uploaded",
-        "updated_at": "2021-11-16T20:48:51Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/49611889"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-11-16T20:48:05Z",
@@ -224,6 +210,20 @@
         "updated_at": "2021-11-16T20:48:51Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/49611887"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-11-16T20:48:09Z",
+        "id": 49611889,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "RA_kwDOABLXGs4C9QRx",
+        "size": 6226682,
+        "state": "uploaded",
+        "updated_at": "2021-11-16T20:48:51Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/49611889"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/53503802/assets",
@@ -247,20 +247,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-11-01T21:25:44Z",
-        "id": 48381646,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "RA_kwDOABLXGs4C4j7O",
-        "size": 6223789,
-        "state": "uploaded",
-        "updated_at": "2021-11-01T21:26:16Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/48381646"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-11-01T21:25:42Z",
@@ -273,6 +259,20 @@
         "updated_at": "2021-11-01T21:26:16Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/48381634"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.13.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-11-01T21:25:44Z",
+        "id": 48381646,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "RA_kwDOABLXGs4C4j7O",
+        "size": 6223789,
+        "state": "uploaded",
+        "updated_at": "2021-11-01T21:26:16Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/48381646"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/52477144/assets",
@@ -296,20 +296,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-09-05T08:30:17Z",
-        "id": 44079132,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ0MDc5MTMy",
-        "size": 6057822,
-        "state": "uploaded",
-        "updated_at": "2021-09-05T08:30:28Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/44079132"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-09-05T08:30:09Z",
@@ -322,6 +308,20 @@
         "updated_at": "2021-09-05T08:30:28Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/44079128"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-09-05T08:30:17Z",
+        "id": 44079132,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ0MDc5MTMy",
+        "size": 6057822,
+        "state": "uploaded",
+        "updated_at": "2021-09-05T08:30:28Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/44079132"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/49025741/assets",
@@ -345,20 +345,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-07-01T16:35:56Z",
-        "id": 39565202,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM5NTY1MjAy",
-        "size": 6054165,
-        "state": "uploaded",
-        "updated_at": "2021-07-01T16:36:09Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/39565202"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-07-01T16:35:44Z",
@@ -371,6 +357,20 @@
         "updated_at": "2021-07-01T16:36:09Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/39565188"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-07-01T16:35:56Z",
+        "id": 39565202,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM5NTY1MjAy",
+        "size": 6054165,
+        "state": "uploaded",
+        "updated_at": "2021-07-01T16:36:09Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/39565202"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/45574031/assets",
@@ -394,20 +394,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-05-28T15:51:27Z",
-        "id": 37714052,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM3NzE0MDUy",
-        "size": 6049663,
-        "state": "uploaded",
-        "updated_at": "2021-05-28T15:51:54Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/37714052"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-05-28T15:51:16Z",
@@ -420,6 +406,20 @@
         "updated_at": "2021-05-28T15:51:54Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/37714034"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-05-28T15:51:27Z",
+        "id": 37714052,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM3NzE0MDUy",
+        "size": 6049663,
+        "state": "uploaded",
+        "updated_at": "2021-05-28T15:51:54Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/37714052"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/43775368/assets",
@@ -443,20 +443,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-05-19T10:22:33Z",
-        "id": 37168907,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM3MTY4OTA3",
-        "size": 6047577,
-        "state": "uploaded",
-        "updated_at": "2021-05-19T10:22:50Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/37168907"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-05-19T10:22:22Z",
@@ -469,6 +455,20 @@
         "updated_at": "2021-05-19T10:22:50Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/37168905"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-05-19T10:22:33Z",
+        "id": 37168907,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM3MTY4OTA3",
+        "size": 6047577,
+        "state": "uploaded",
+        "updated_at": "2021-05-19T10:22:50Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/37168907"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/43204999/assets",
@@ -492,20 +492,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-04-24T16:27:09Z",
-        "id": 35752087,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM1NzUyMDg3",
-        "size": 6093195,
-        "state": "uploaded",
-        "updated_at": "2021-04-24T16:27:21Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/35752087"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-04-24T16:26:57Z",
@@ -518,6 +504,20 @@
         "updated_at": "2021-04-24T16:27:21Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/35752073"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-04-24T16:27:09Z",
+        "id": 35752087,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM1NzUyMDg3",
+        "size": 6093195,
+        "state": "uploaded",
+        "updated_at": "2021-04-24T16:27:21Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/35752087"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/41946512/assets",
@@ -541,20 +541,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-04-03T14:35:55Z",
-        "id": 34405338,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM0NDA1MzM4",
-        "size": 6078411,
-        "state": "uploaded",
-        "updated_at": "2021-04-03T14:36:46Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/34405338"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-04-03T14:35:45Z",
@@ -567,6 +553,20 @@
         "updated_at": "2021-04-03T14:36:46Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/34405335"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.12.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-04-03T14:35:55Z",
+        "id": 34405338,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM0NDA1MzM4",
+        "size": 6078411,
+        "state": "uploaded",
+        "updated_at": "2021-04-03T14:36:46Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/34405338"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/40900082/assets",
@@ -590,20 +590,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-03-16T12:48:42Z",
-        "id": 33532377,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDMzNTMyMzc3",
-        "size": 5946631,
-        "state": "uploaded",
-        "updated_at": "2021-03-16T12:49:25Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/33532377"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-03-16T12:48:32Z",
@@ -616,6 +602,20 @@
         "updated_at": "2021-03-16T12:49:25Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/33532370"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-03-16T12:48:42Z",
+        "id": 33532377,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDMzNTMyMzc3",
+        "size": 5946631,
+        "state": "uploaded",
+        "updated_at": "2021-03-16T12:49:25Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/33532377"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/39876083/assets",
@@ -639,20 +639,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2021-01-04T15:56:57Z",
-        "id": 30253430,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDMwMjUzNDMw",
-        "size": 5944996,
-        "state": "uploaded",
-        "updated_at": "2021-01-04T15:57:27Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/30253430"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2021-01-04T15:56:49Z",
@@ -665,6 +651,20 @@
         "updated_at": "2021-01-04T15:57:27Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/30253428"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2021-01-04T15:56:57Z",
+        "id": 30253430,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDMwMjUzNDMw",
+        "size": 5944996,
+        "state": "uploaded",
+        "updated_at": "2021-01-04T15:57:27Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/30253430"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/35956917/assets",
@@ -688,20 +688,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-11-03T14:31:15Z",
-        "id": 27888007,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3ODg4MDA3",
-        "size": 5940618,
-        "state": "uploaded",
-        "updated_at": "2020-11-03T14:31:42Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/27888007"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-11-03T14:31:06Z",
@@ -714,6 +700,20 @@
         "updated_at": "2020-11-03T14:31:42Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/27888001"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-11-03T14:31:15Z",
+        "id": 27888007,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3ODg4MDA3",
+        "size": 5940618,
+        "state": "uploaded",
+        "updated_at": "2020-11-03T14:31:42Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/27888007"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/33405900/assets",
@@ -737,20 +737,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-10-16T08:08:24Z",
-        "id": 27063485,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3MDYzNDg1",
-        "size": 5939687,
-        "state": "uploaded",
-        "updated_at": "2020-10-16T08:08:41Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/27063485"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-10-16T08:08:14Z",
@@ -763,6 +749,20 @@
         "updated_at": "2020-10-16T08:08:41Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/27063477"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-10-16T08:08:24Z",
+        "id": 27063485,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3MDYzNDg1",
+        "size": 5939687,
+        "state": "uploaded",
+        "updated_at": "2020-10-16T08:08:41Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/27063485"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/32658560/assets",
@@ -786,20 +786,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-10-06T14:29:14Z",
-        "id": 26611869,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI2NjExODY5",
-        "size": 5937894,
-        "state": "uploaded",
-        "updated_at": "2020-10-06T14:29:36Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/26611869"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-10-06T14:29:05Z",
@@ -812,6 +798,20 @@
         "updated_at": "2020-10-06T14:29:36Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/26611864"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-10-06T14:29:14Z",
+        "id": 26611869,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI2NjExODY5",
+        "size": 5937894,
+        "state": "uploaded",
+        "updated_at": "2020-10-06T14:29:36Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/26611869"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/32221386/assets",
@@ -835,20 +835,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-09-14T07:25:09Z",
-        "id": 25572963,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI1NTcyOTYz",
-        "size": 5932291,
-        "state": "uploaded",
-        "updated_at": "2020-09-14T07:25:40Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/25572963"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-09-14T07:25:00Z",
@@ -861,6 +847,20 @@
         "updated_at": "2020-09-14T07:25:40Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/25572958"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.11.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-09-14T07:25:09Z",
+        "id": 25572963,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI1NTcyOTYz",
+        "size": 5932291,
+        "state": "uploaded",
+        "updated_at": "2020-09-14T07:25:40Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/25572963"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/31237179/assets",
@@ -884,20 +884,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-07-04T11:21:34Z",
-        "id": 22543779,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDIyNTQzNzc5",
-        "size": 5699657,
-        "state": "uploaded",
-        "updated_at": "2020-07-04T11:21:58Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/22543779"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-07-04T11:21:22Z",
@@ -910,6 +896,20 @@
         "updated_at": "2020-07-04T11:21:58Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/22543778"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-07-04T11:21:34Z",
+        "id": 22543779,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDIyNTQzNzc5",
+        "size": 5699657,
+        "state": "uploaded",
+        "updated_at": "2020-07-04T11:21:58Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/22543779"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/28218100/assets",
@@ -933,20 +933,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-04-25T08:37:10Z",
-        "id": 20141636,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDIwMTQxNjM2",
-        "size": 5680239,
-        "state": "uploaded",
-        "updated_at": "2020-04-25T08:37:28Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/20141636"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-04-25T08:36:56Z",
@@ -959,6 +945,20 @@
         "updated_at": "2020-04-25T08:37:28Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/20141633"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-04-25T08:37:10Z",
+        "id": 20141636,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDIwMTQxNjM2",
+        "size": 5680239,
+        "state": "uploaded",
+        "updated_at": "2020-04-25T08:37:28Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/20141636"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/25876419/assets",
@@ -982,20 +982,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-02-26T12:01:55Z",
-        "id": 18304379,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4MzA0Mzc5",
-        "size": 5673905,
-        "state": "uploaded",
-        "updated_at": "2020-02-26T12:02:12Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/18304379"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-02-26T12:01:43Z",
@@ -1008,6 +994,20 @@
         "updated_at": "2020-02-26T12:02:12Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/18304365"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-02-26T12:01:55Z",
+        "id": 18304379,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4MzA0Mzc5",
+        "size": 5673905,
+        "state": "uploaded",
+        "updated_at": "2020-02-26T12:02:12Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/18304379"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/23998054/assets",
@@ -1031,20 +1031,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-02-10T11:53:24Z",
-        "id": 17920070,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3OTIwMDcw",
-        "size": 5672280,
-        "state": "uploaded",
-        "updated_at": "2020-02-10T11:53:45Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17920070"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-02-10T11:53:15Z",
@@ -1057,6 +1043,20 @@
         "updated_at": "2020-02-10T11:53:45Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17920068"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-02-10T11:53:24Z",
+        "id": 17920070,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3OTIwMDcw",
+        "size": 5672280,
+        "state": "uploaded",
+        "updated_at": "2020-02-10T11:53:45Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17920070"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/23529861/assets",
@@ -1080,20 +1080,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-01-27T09:17:40Z",
-        "id": 17595892,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3NTk1ODky",
-        "size": 5671900,
-        "state": "uploaded",
-        "updated_at": "2020-01-27T09:17:59Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17595892"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-01-27T09:17:35Z",
@@ -1106,6 +1092,20 @@
         "updated_at": "2020-01-27T09:17:59Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17595891"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-01-27T09:17:40Z",
+        "id": 17595892,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3NTk1ODky",
+        "size": 5671900,
+        "state": "uploaded",
+        "updated_at": "2020-01-27T09:17:59Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17595892"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/23143255/assets",
@@ -1129,20 +1129,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2020-01-07T15:08:47Z",
-        "id": 17188070,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3MTg4MDcw",
-        "size": 5666120,
-        "state": "uploaded",
-        "updated_at": "2020-01-07T15:09:40Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17188070"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2020-01-07T15:08:43Z",
@@ -1155,6 +1141,20 @@
         "updated_at": "2020-01-07T15:09:40Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17188069"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.10.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2020-01-07T15:08:47Z",
+        "id": 17188070,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3MTg4MDcw",
+        "size": 5666120,
+        "state": "uploaded",
+        "updated_at": "2020-01-07T15:09:40Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/17188070"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/22650172/assets",
@@ -1178,20 +1178,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-11-05T15:36:27Z",
-        "id": 15970413,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE1OTcwNDEz",
-        "size": 5333393,
-        "state": "uploaded",
-        "updated_at": "2019-11-05T15:36:53Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15970413"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-11-05T15:36:27Z",
@@ -1204,6 +1190,20 @@
         "updated_at": "2019-11-05T15:36:53Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15970411"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-11-05T15:36:27Z",
+        "id": 15970413,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE1OTcwNDEz",
+        "size": 5333393,
+        "state": "uploaded",
+        "updated_at": "2019-11-05T15:36:53Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15970413"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/21226776/assets",
@@ -1227,20 +1227,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-11-05T13:05:02Z",
-        "id": 15967522,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE1OTY3NTIy",
-        "size": 5333024,
-        "state": "uploaded",
-        "updated_at": "2019-11-05T13:05:39Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15967522"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-11-05T13:05:02Z",
@@ -1253,6 +1239,20 @@
         "updated_at": "2019-11-05T13:05:39Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15967521"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-11-05T13:05:02Z",
+        "id": 15967522,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE1OTY3NTIy",
+        "size": 5333024,
+        "state": "uploaded",
+        "updated_at": "2019-11-05T13:05:39Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15967522"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/21221543/assets",
@@ -1276,20 +1276,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-10-11T22:26:52Z",
-        "id": 15435802,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE1NDM1ODAy",
-        "size": 5325018,
-        "state": "uploaded",
-        "updated_at": "2019-10-11T22:27:48Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15435802"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-10-11T22:26:52Z",
@@ -1302,6 +1288,20 @@
         "updated_at": "2019-10-11T22:27:48Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15435801"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-10-11T22:26:52Z",
+        "id": 15435802,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE1NDM1ODAy",
+        "size": 5325018,
+        "state": "uploaded",
+        "updated_at": "2019-10-11T22:27:48Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/15435802"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/20653528/assets",
@@ -1325,20 +1325,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-07-18T10:37:01Z",
-        "id": 13774581,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzNzc0NTgx",
-        "size": 5322902,
-        "state": "uploaded",
-        "updated_at": "2019-07-18T10:37:48Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13774581"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-07-18T10:37:01Z",
@@ -1351,6 +1337,20 @@
         "updated_at": "2019-07-18T10:37:48Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13774580"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-07-18T10:37:01Z",
+        "id": 13774581,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzNzc0NTgx",
+        "size": 5322902,
+        "state": "uploaded",
+        "updated_at": "2019-07-18T10:37:48Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13774581"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/18699669/assets",
@@ -1374,20 +1374,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-06-24T15:23:54Z",
-        "id": 13374672,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzMzc0Njcy",
-        "size": 5319396,
-        "state": "uploaded",
-        "updated_at": "2019-06-24T15:24:19Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13374672"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-06-24T15:23:54Z",
@@ -1400,6 +1386,20 @@
         "updated_at": "2019-06-24T15:24:19Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13374671"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-06-24T15:23:54Z",
+        "id": 13374672,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzMzc0Njcy",
+        "size": 5319396,
+        "state": "uploaded",
+        "updated_at": "2019-06-24T15:24:19Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13374672"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/18185303/assets",
@@ -1423,20 +1423,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-06-04T11:25:56Z",
-        "id": 13015610,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzMDE1NjEw",
-        "size": 5317470,
-        "state": "uploaded",
-        "updated_at": "2019-06-04T11:26:09Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13015610"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-06-04T11:25:52Z",
@@ -1449,6 +1435,20 @@
         "updated_at": "2019-06-04T11:26:09Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13015609"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.9.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-06-04T11:25:56Z",
+        "id": 13015610,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzMDE1NjEw",
+        "size": 5317470,
+        "state": "uploaded",
+        "updated_at": "2019-06-04T11:26:09Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/13015610"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/17767586/assets",
@@ -1472,20 +1472,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-05-12T14:49:28Z",
-        "id": 12592336,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEyNTkyMzM2",
-        "size": 5156249,
-        "state": "uploaded",
-        "updated_at": "2019-05-12T14:50:17Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/12592336"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-05-12T14:49:27Z",
@@ -1498,6 +1484,20 @@
         "updated_at": "2019-05-12T14:50:17Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/12592335"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-05-12T14:49:28Z",
+        "id": 12592336,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEyNTkyMzM2",
+        "size": 5156249,
+        "state": "uploaded",
+        "updated_at": "2019-05-12T14:50:17Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/12592336"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/17299141/assets",
@@ -1521,20 +1521,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-01-30T10:47:41Z",
-        "id": 10846598,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwODQ2NTk4",
-        "size": 5154710,
-        "state": "uploaded",
-        "updated_at": "2019-01-30T10:47:56Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10846598"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-01-30T10:47:41Z",
@@ -1547,6 +1533,20 @@
         "updated_at": "2019-01-30T10:47:56Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10846596"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-01-30T10:47:41Z",
+        "id": 10846598,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwODQ2NTk4",
+        "size": 5154710,
+        "state": "uploaded",
+        "updated_at": "2019-01-30T10:47:56Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10846598"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/15261879/assets",
@@ -1570,20 +1570,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-01-14T15:03:03Z",
-        "id": 10562372,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwNTYyMzcy",
-        "size": 5153717,
-        "state": "uploaded",
-        "updated_at": "2019-01-14T15:03:44Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10562372"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-01-14T15:03:02Z",
@@ -1596,6 +1582,20 @@
         "updated_at": "2019-01-14T15:03:44Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10562371"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-01-14T15:03:03Z",
+        "id": 10562372,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwNTYyMzcy",
+        "size": 5153717,
+        "state": "uploaded",
+        "updated_at": "2019-01-14T15:03:44Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10562372"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/14961970/assets",
@@ -1619,20 +1619,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2019-01-02T19:29:51Z",
-        "id": 10384302,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzg0MzAy",
-        "size": 5151580,
-        "state": "uploaded",
-        "updated_at": "2019-01-02T19:32:53Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10384302"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2019-01-02T19:29:50Z",
@@ -1645,6 +1631,20 @@
         "updated_at": "2019-01-02T19:32:53Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10384301"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2019-01-02T19:29:51Z",
+        "id": 10384302,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMzg0MzAy",
+        "size": 5151580,
+        "state": "uploaded",
+        "updated_at": "2019-01-02T19:32:53Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10384302"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/14772599/assets",
@@ -1668,20 +1668,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-12-24T14:41:58Z",
-        "id": 10289854,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMjg5ODU0",
-        "size": 5151580,
-        "state": "uploaded",
-        "updated_at": "2018-12-24T14:42:39Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10289854"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-12-24T14:41:58Z",
@@ -1694,6 +1680,20 @@
         "updated_at": "2018-12-24T14:42:39Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10289853"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.8.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-12-24T14:41:58Z",
+        "id": 10289854,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEwMjg5ODU0",
+        "size": 5151580,
+        "state": "uploaded",
+        "updated_at": "2018-12-24T14:42:39Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/10289854"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/14685130/assets",
@@ -1717,20 +1717,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-10-24T18:18:16Z",
-        "id": 9396000,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDkzOTYwMDA=",
-        "size": 5344630,
-        "state": "uploaded",
-        "updated_at": "2018-10-24T18:18:58Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/9396000"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-10-24T18:18:16Z",
@@ -1743,6 +1729,20 @@
         "updated_at": "2018-10-24T18:18:58Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/9395999"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-10-24T18:18:16Z",
+        "id": 9396000,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDkzOTYwMDA=",
+        "size": 5344630,
+        "state": "uploaded",
+        "updated_at": "2018-10-24T18:18:58Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/9396000"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/13638672/assets",
@@ -1766,20 +1766,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-08-24T18:52:55Z",
-        "id": 8384470,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDgzODQ0NzA=",
-        "size": 5342430,
-        "state": "uploaded",
-        "updated_at": "2018-08-24T18:53:14Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8384470"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-08-24T18:52:54Z",
@@ -1792,6 +1778,20 @@
         "updated_at": "2018-08-24T18:53:14Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8384469"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-08-24T18:52:55Z",
+        "id": 8384470,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDgzODQ0NzA=",
+        "size": 5342430,
+        "state": "uploaded",
+        "updated_at": "2018-08-24T18:53:14Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8384470"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/12567585/assets",
@@ -1815,20 +1815,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-08-05T07:20:57Z",
-        "id": 8132858,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDgxMzI4NTg=",
-        "size": 5341086,
-        "state": "uploaded",
-        "updated_at": "2018-08-05T07:21:14Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8132858"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-08-05T07:20:56Z",
@@ -1841,6 +1827,20 @@
         "updated_at": "2018-08-05T07:21:14Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8132857"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-08-05T07:20:57Z",
+        "id": 8132858,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDgxMzI4NTg=",
+        "size": 5341086,
+        "state": "uploaded",
+        "updated_at": "2018-08-05T07:21:14Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8132858"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/12258025/assets",
@@ -1864,20 +1864,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-07-26T20:01:40Z",
-        "id": 8024426,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDgwMjQ0MjY=",
-        "size": 5338500,
-        "state": "uploaded",
-        "updated_at": "2018-07-26T20:02:15Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8024426"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-07-26T20:01:40Z",
@@ -1890,6 +1876,20 @@
         "updated_at": "2018-07-26T20:02:15Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8024425"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-07-26T20:01:40Z",
+        "id": 8024426,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDgwMjQ0MjY=",
+        "size": 5338500,
+        "state": "uploaded",
+        "updated_at": "2018-07-26T20:02:15Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8024426"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/12124279/assets",
@@ -1913,20 +1913,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-07-25T20:43:23Z",
-        "id": 8009672,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDgwMDk2NzI=",
-        "size": 5337365,
-        "state": "uploaded",
-        "updated_at": "2018-07-25T20:44:28Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8009672"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-07-25T20:43:23Z",
@@ -1939,6 +1925,20 @@
         "updated_at": "2018-07-25T20:44:28Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8009671"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-07-25T20:43:23Z",
+        "id": 8009672,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDgwMDk2NzI=",
+        "size": 5337365,
+        "state": "uploaded",
+        "updated_at": "2018-07-25T20:44:28Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/8009672"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/12105004/assets",
@@ -1962,20 +1962,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-07-19T10:15:50Z",
-        "id": 7930943,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDc5MzA5NDM=",
-        "size": 5334933,
-        "state": "uploaded",
-        "updated_at": "2018-07-19T10:16:07Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7930943"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-07-19T10:15:50Z",
@@ -1988,6 +1974,20 @@
         "updated_at": "2018-07-19T10:16:07Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7930942"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-07-19T10:15:50Z",
+        "id": 7930943,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDc5MzA5NDM=",
+        "size": 5334933,
+        "state": "uploaded",
+        "updated_at": "2018-07-19T10:16:07Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7930943"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/12004395/assets",
@@ -2011,20 +2011,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-07-13T13:11:17Z",
-        "id": 7865938,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDc4NjU5Mzg=",
-        "size": 5332243,
-        "state": "uploaded",
-        "updated_at": "2018-07-13T13:12:24Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7865938"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-07-13T13:11:16Z",
@@ -2037,6 +2023,20 @@
         "updated_at": "2018-07-13T13:12:24Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7865937"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.7.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-07-13T13:11:17Z",
+        "id": 7865938,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDc4NjU5Mzg=",
+        "size": 5332243,
+        "state": "uploaded",
+        "updated_at": "2018-07-13T13:12:24Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7865938"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/11914837/assets",
@@ -2060,20 +2060,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.6/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-06-19T22:28:27Z",
-        "id": 7594031,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDc1OTQwMzE=",
-        "size": 5201086,
-        "state": "uploaded",
-        "updated_at": "2018-06-19T22:28:53Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7594031"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.6/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-06-19T22:28:37Z",
@@ -2086,6 +2072,20 @@
         "updated_at": "2018-06-19T22:28:53Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7594032"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.6/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-06-19T22:28:27Z",
+        "id": 7594031,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDc1OTQwMzE=",
+        "size": 5201086,
+        "state": "uploaded",
+        "updated_at": "2018-06-19T22:28:53Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7594031"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/11558560/assets",
@@ -2109,20 +2109,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.5/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-05-07T11:34:36Z",
-        "id": 7090559,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTA1NTk=",
-        "size": 5191411,
-        "state": "uploaded",
-        "updated_at": "2018-05-07T11:35:04Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7090559"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.5/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-05-07T11:34:36Z",
@@ -2135,6 +2121,20 @@
         "updated_at": "2018-05-07T11:35:04Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7090558"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.5/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-05-07T11:34:36Z",
+        "id": 7090559,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTA1NTk=",
+        "size": 5191411,
+        "state": "uploaded",
+        "updated_at": "2018-05-07T11:35:04Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/7090559"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/10879840/assets",
@@ -2158,20 +2158,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-03-16T11:32:20Z",
-        "id": 6533068,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDY1MzMwNjg=",
-        "size": 5185234,
-        "state": "uploaded",
-        "updated_at": "2018-03-16T11:32:43Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6533068"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-03-16T11:32:20Z",
@@ -2184,6 +2170,20 @@
         "updated_at": "2018-03-16T11:32:43Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6533067"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-03-16T11:32:20Z",
+        "id": 6533068,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY1MzMwNjg=",
+        "size": 5185234,
+        "state": "uploaded",
+        "updated_at": "2018-03-16T11:32:43Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6533068"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/10120794/assets",
@@ -2207,20 +2207,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-03-09T08:04:25Z",
-        "id": 6455892,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDY0NTU4OTI=",
-        "size": 5184487,
-        "state": "uploaded",
-        "updated_at": "2018-03-09T08:04:37Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6455892"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-03-09T08:04:20Z",
@@ -2233,6 +2219,20 @@
         "updated_at": "2018-03-09T08:04:37Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6455891"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-03-09T08:04:25Z",
+        "id": 6455892,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY0NTU4OTI=",
+        "size": 5184487,
+        "state": "uploaded",
+        "updated_at": "2018-03-09T08:04:37Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6455892"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/10012257/assets",
@@ -2256,20 +2256,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-02-28T09:58:08Z",
-        "id": 6351222,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDYzNTEyMjI=",
-        "size": 5180313,
-        "state": "uploaded",
-        "updated_at": "2018-02-28T09:58:40Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6351222"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-02-28T09:58:27Z",
@@ -2282,6 +2268,20 @@
         "updated_at": "2018-02-28T09:58:40Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6351225"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-02-28T09:58:08Z",
+        "id": 6351222,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDYzNTEyMjI=",
+        "size": 5180313,
+        "state": "uploaded",
+        "updated_at": "2018-02-28T09:58:40Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6351222"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/9870538/assets",
@@ -2305,20 +2305,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-01-29T20:04:24Z",
-        "id": 6023880,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDYwMjM4ODA=",
-        "size": 5165957,
-        "state": "uploaded",
-        "updated_at": "2018-01-29T20:04:40Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6023880"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-01-29T20:04:32Z",
@@ -2331,6 +2317,20 @@
         "updated_at": "2018-01-29T20:04:40Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6023881"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-01-29T20:04:24Z",
+        "id": 6023880,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDYwMjM4ODA=",
+        "size": 5165957,
+        "state": "uploaded",
+        "updated_at": "2018-01-29T20:04:40Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/6023880"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/9435782/assets",
@@ -2354,20 +2354,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-01-17T18:46:31Z",
-        "id": 5903275,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDU5MDMyNzU=",
-        "size": 5158205,
-        "state": "uploaded",
-        "updated_at": "2018-01-17T18:46:44Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5903275"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-01-17T18:46:23Z",
@@ -2380,6 +2366,20 @@
         "updated_at": "2018-01-17T18:46:44Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5903274"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-01-17T18:46:31Z",
+        "id": 5903275,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDU5MDMyNzU=",
+        "size": 5158205,
+        "state": "uploaded",
+        "updated_at": "2018-01-17T18:46:44Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5903275"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/9275101/assets",
@@ -2403,20 +2403,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2018-01-11T09:33:15Z",
-        "id": 5840008,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDU4NDAwMDg=",
-        "size": 5158535,
-        "state": "uploaded",
-        "updated_at": "2018-01-11T09:33:53Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5840008"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2018-01-11T09:33:14Z",
@@ -2429,6 +2415,20 @@
         "updated_at": "2018-01-11T09:33:53Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5840007"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2018-01-11T09:33:15Z",
+        "id": 5840008,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDU4NDAwMDg=",
+        "size": 5158535,
+        "state": "uploaded",
+        "updated_at": "2018-01-11T09:33:53Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5840008"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/9192341/assets",
@@ -2452,20 +2452,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-12-24T11:40:27Z",
-        "id": 5707240,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDU3MDcyNDA=",
-        "size": 5150769,
-        "state": "uploaded",
-        "updated_at": "2017-12-24T11:40:45Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5707240"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-12-24T11:40:17Z",
@@ -2478,6 +2464,20 @@
         "updated_at": "2017-12-24T11:40:45Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5707238"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.6.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-12-24T11:40:27Z",
+        "id": 5707240,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDU3MDcyNDA=",
+        "size": 5150769,
+        "state": "uploaded",
+        "updated_at": "2017-12-24T11:40:45Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5707240"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/9021477/assets",
@@ -2501,20 +2501,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-12-19T17:20:36Z",
-        "id": 5668069,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDU2NjgwNjk=",
-        "size": 4102341,
-        "state": "uploaded",
-        "updated_at": "2017-12-19T17:20:49Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5668069"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-12-19T17:20:17Z",
@@ -2527,6 +2513,20 @@
         "updated_at": "2017-12-19T17:20:49Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5668067"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-12-19T17:20:36Z",
+        "id": 5668069,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDU2NjgwNjk=",
+        "size": 4102341,
+        "state": "uploaded",
+        "updated_at": "2017-12-19T17:20:49Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/5668069"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/8966563/assets",
@@ -2550,20 +2550,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-09-30T17:07:17Z",
-        "id": 4953182,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ5NTMxODI=",
-        "size": 4102850,
-        "state": "uploaded",
-        "updated_at": "2017-09-30T17:08:13Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4953182"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-09-29T12:09:31Z",
@@ -2576,6 +2562,20 @@
         "updated_at": "2017-09-29T12:10:47Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4944707"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-09-30T17:07:17Z",
+        "id": 4953182,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ5NTMxODI=",
+        "size": 4102850,
+        "state": "uploaded",
+        "updated_at": "2017-09-30T17:08:13Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4953182"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/7940604/assets",
@@ -2599,20 +2599,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-08-01T15:45:57Z",
-        "id": 4477607,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ0Nzc2MDc=",
-        "size": 4098350,
-        "state": "uploaded",
-        "updated_at": "2017-08-01T15:47:20Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4477607"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-08-01T15:45:57Z",
@@ -2625,6 +2611,20 @@
         "updated_at": "2017-08-01T15:47:20Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4477606"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-08-01T15:45:57Z",
+        "id": 4477607,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ0Nzc2MDc=",
+        "size": 4098350,
+        "state": "uploaded",
+        "updated_at": "2017-08-01T15:47:20Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4477607"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/7244190/assets",
@@ -2648,20 +2648,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-07-25T07:25:37Z",
-        "id": 4407301,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ0MDczMDE=",
-        "size": 4097503,
-        "state": "uploaded",
-        "updated_at": "2017-07-25T07:27:16Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4407301"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-07-25T07:25:37Z",
@@ -2674,6 +2660,20 @@
         "updated_at": "2017-07-25T07:27:16Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4407300"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-07-25T07:25:37Z",
+        "id": 4407301,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQ0MDczMDE=",
+        "size": 4097503,
+        "state": "uploaded",
+        "updated_at": "2017-07-25T07:27:16Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4407301"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/7154947/assets",
@@ -2697,20 +2697,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-07-20T09:50:07Z",
-        "id": 4371918,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQzNzE5MTg=",
-        "size": 4097469,
-        "state": "uploaded",
-        "updated_at": "2017-07-20T09:51:04Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4371918"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-07-20T09:49:19Z",
@@ -2723,6 +2709,20 @@
         "updated_at": "2017-07-20T09:51:04Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4371844"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-07-20T09:50:07Z",
+        "id": 4371918,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQzNzE5MTg=",
+        "size": 4097469,
+        "state": "uploaded",
+        "updated_at": "2017-07-20T09:51:04Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4371918"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/7106358/assets",
@@ -2746,20 +2746,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-07-12T12:52:29Z",
-        "id": 4310540,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQzMTA1NDA=",
-        "size": 4090880,
-        "state": "uploaded",
-        "updated_at": "2017-07-12T12:54:03Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4310540"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-07-12T12:53:19Z",
@@ -2772,6 +2758,20 @@
         "updated_at": "2017-07-12T12:54:03Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4310566"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-07-12T12:52:29Z",
+        "id": 4310540,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQzMTA1NDA=",
+        "size": 4090880,
+        "state": "uploaded",
+        "updated_at": "2017-07-12T12:54:03Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4310540"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/7013166/assets",
@@ -2795,20 +2795,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-06-25T11:21:34Z",
-        "id": 4179167,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxNzkxNjc=",
-        "size": 4033023,
-        "state": "uploaded",
-        "updated_at": "2017-06-25T11:21:53Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4179167"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-06-25T11:21:34Z",
@@ -2821,6 +2807,20 @@
         "updated_at": "2017-06-25T11:21:53Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4179166"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.5.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-06-25T11:21:34Z",
+        "id": 4179167,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxNzkxNjc=",
+        "size": 4033023,
+        "state": "uploaded",
+        "updated_at": "2017-06-25T11:21:53Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4179167"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/6827305/assets",
@@ -2844,20 +2844,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.5/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-06-22T08:42:35Z",
-        "id": 4157299,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxNTcyOTk=",
-        "size": 3787133,
-        "state": "uploaded",
-        "updated_at": "2017-06-22T08:43:55Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4157299"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.5/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-06-22T08:42:35Z",
@@ -2870,6 +2856,20 @@
         "updated_at": "2017-06-22T08:43:55Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4157298"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.5/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-06-22T08:42:35Z",
+        "id": 4157299,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDQxNTcyOTk=",
+        "size": 3787133,
+        "state": "uploaded",
+        "updated_at": "2017-06-22T08:43:55Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/4157299"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/6797718/assets",
@@ -2893,20 +2893,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-05-15T15:02:50Z",
-        "id": 3878531,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM4Nzg1MzE=",
-        "size": 3786437,
-        "state": "uploaded",
-        "updated_at": "2017-05-15T15:04:32Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3878531"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-05-15T15:02:50Z",
@@ -2919,6 +2905,20 @@
         "updated_at": "2017-05-15T15:04:32Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3878530"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-05-15T15:02:50Z",
+        "id": 3878531,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM4Nzg1MzE=",
+        "size": 3786437,
+        "state": "uploaded",
+        "updated_at": "2017-05-15T15:04:32Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3878531"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/6389025/assets",
@@ -2942,20 +2942,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-05-15T12:50:01Z",
-        "id": 3877216,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDM4NzcyMTY=",
-        "size": 3786115,
-        "state": "uploaded",
-        "updated_at": "2017-05-15T12:51:41Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3877216"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-05-15T12:50:01Z",
@@ -2968,6 +2954,20 @@
         "updated_at": "2017-05-15T12:51:41Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3877215"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-05-15T12:50:01Z",
+        "id": 3877216,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDM4NzcyMTY=",
+        "size": 3786115,
+        "state": "uploaded",
+        "updated_at": "2017-05-15T12:51:41Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3877216"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/6387156/assets",
@@ -2991,20 +2991,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-02-16T14:43:03Z",
-        "id": 3206610,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDMyMDY2MTA=",
-        "size": 3781796,
-        "state": "uploaded",
-        "updated_at": "2017-02-16T14:44:04Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3206610"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-02-16T14:42:46Z",
@@ -3017,6 +3003,20 @@
         "updated_at": "2017-02-16T14:44:04Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3206608"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-02-16T14:43:03Z",
+        "id": 3206610,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDMyMDY2MTA=",
+        "size": 3781796,
+        "state": "uploaded",
+        "updated_at": "2017-02-16T14:44:04Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3206610"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/5478635/assets",
@@ -3040,20 +3040,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-01-26T12:10:06Z",
-        "id": 3063817,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDMwNjM4MTc=",
-        "size": 3760651,
-        "state": "uploaded",
-        "updated_at": "2017-01-26T12:16:58Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3063817"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-01-26T12:14:52Z",
@@ -3066,6 +3052,20 @@
         "updated_at": "2017-01-26T12:16:58Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3063830"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-01-26T12:10:06Z",
+        "id": 3063817,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDMwNjM4MTc=",
+        "size": 3760651,
+        "state": "uploaded",
+        "updated_at": "2017-01-26T12:16:58Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/3063817"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/5273631/assets",
@@ -3089,20 +3089,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2017-01-05T10:35:06Z",
-        "id": 2930433,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI5MzA0MzM=",
-        "size": 3763704,
-        "state": "uploaded",
-        "updated_at": "2017-01-05T10:36:58Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2930433"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2017-01-04T23:16:34Z",
@@ -3115,6 +3101,20 @@
         "updated_at": "2017-01-04T23:17:44Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2927824"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2017-01-05T10:35:06Z",
+        "id": 2930433,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI5MzA0MzM=",
+        "size": 3763704,
+        "state": "uploaded",
+        "updated_at": "2017-01-05T10:36:58Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2930433"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/5071985/assets",
@@ -3138,20 +3138,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-12-05T21:01:15Z",
-        "id": 2769991,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3Njk5OTE=",
-        "size": 3761780,
-        "state": "uploaded",
-        "updated_at": "2016-12-05T21:02:34Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2769991"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-12-05T21:02:13Z",
@@ -3164,6 +3150,20 @@
         "updated_at": "2016-12-05T21:02:34Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2769996"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-12-05T21:01:15Z",
+        "id": 2769991,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3Njk5OTE=",
+        "size": 3761780,
+        "state": "uploaded",
+        "updated_at": "2016-12-05T21:02:34Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2769991"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/4837720/assets",
@@ -3187,20 +3187,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-11-28T10:37:58Z",
-        "id": 2726035,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3MjYwMzU=",
-        "size": 3754595,
-        "state": "uploaded",
-        "updated_at": "2016-11-28T10:38:41Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2726035"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-11-28T10:37:40Z",
@@ -3213,6 +3199,20 @@
         "updated_at": "2016-11-28T10:38:41Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2726033"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.4.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-11-28T10:37:58Z",
+        "id": 2726035,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI3MjYwMzU=",
+        "size": 3754595,
+        "state": "uploaded",
+        "updated_at": "2016-11-28T10:38:41Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2726035"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/4771272/assets",
@@ -3236,20 +3236,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-10-09T14:38:49Z",
-        "id": 2446063,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NDYwNjM=",
-        "size": 3574463,
-        "state": "uploaded",
-        "updated_at": "2016-10-09T14:40:03Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2446063"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-10-09T14:39:41Z",
@@ -3262,6 +3248,20 @@
         "updated_at": "2016-10-09T14:40:03Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2446068"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-10-09T14:38:49Z",
+        "id": 2446063,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDI0NDYwNjM=",
+        "size": 3574463,
+        "state": "uploaded",
+        "updated_at": "2016-10-09T14:40:03Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2446063"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/4342973/assets",
@@ -3285,20 +3285,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-09-17T16:20:25Z",
-        "id": 2329481,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDIzMjk0ODE=",
-        "size": 3576623,
-        "state": "uploaded",
-        "updated_at": "2016-09-17T16:22:03Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2329481"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-09-17T16:20:25Z",
@@ -3311,6 +3297,20 @@
         "updated_at": "2016-09-17T16:22:03Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2329480"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-09-17T16:20:25Z",
+        "id": 2329481,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDIzMjk0ODE=",
+        "size": 3576623,
+        "state": "uploaded",
+        "updated_at": "2016-09-17T16:22:03Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/2329481"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/4159494/assets",
@@ -3334,20 +3334,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-07-15T16:56:36Z",
-        "id": 1996857,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE5OTY4NTc=",
-        "size": 3573688,
-        "state": "uploaded",
-        "updated_at": "2016-07-15T16:56:50Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1996857"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-07-15T16:56:30Z",
@@ -3360,6 +3346,20 @@
         "updated_at": "2016-07-15T16:56:50Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1996854"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-07-15T16:56:36Z",
+        "id": 1996857,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE5OTY4NTc=",
+        "size": 3573688,
+        "state": "uploaded",
+        "updated_at": "2016-07-15T16:56:50Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1996857"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3668665/assets",
@@ -3383,20 +3383,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-06-28T10:01:45Z",
-        "id": 1911099,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE5MTEwOTk=",
-        "size": 3568776,
-        "state": "uploaded",
-        "updated_at": "2016-06-28T10:02:27Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1911099"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-06-28T10:01:39Z",
@@ -3409,6 +3395,20 @@
         "updated_at": "2016-06-28T10:02:27Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1911098"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-06-28T10:01:45Z",
+        "id": 1911099,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE5MTEwOTk=",
+        "size": 3568776,
+        "state": "uploaded",
+        "updated_at": "2016-06-28T10:02:27Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1911099"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3537765/assets",
@@ -3432,20 +3432,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-06-21T10:34:48Z",
-        "id": 1879387,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4NzkzODc=",
-        "size": 3566087,
-        "state": "uploaded",
-        "updated_at": "2016-06-21T10:35:08Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1879387"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-06-21T10:34:47Z",
@@ -3458,6 +3444,20 @@
         "updated_at": "2016-06-21T10:35:08Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1879386"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-06-21T10:34:48Z",
+        "id": 1879387,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4NzkzODc=",
+        "size": 3566087,
+        "state": "uploaded",
+        "updated_at": "2016-06-21T10:35:08Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1879387"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3488479/assets",
@@ -3481,20 +3481,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0-rc.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-06-08T19:18:36Z",
-        "id": 1816110,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4MTYxMTA=",
-        "size": 3571767,
-        "state": "uploaded",
-        "updated_at": "2016-06-08T19:19:30Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1816110"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0-rc.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-06-08T19:18:36Z",
@@ -3507,6 +3493,20 @@
         "updated_at": "2016-06-08T19:19:30Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1816109"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0-rc.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-06-08T19:18:36Z",
+        "id": 1816110,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4MTYxMTA=",
+        "size": 3571767,
+        "state": "uploaded",
+        "updated_at": "2016-06-08T19:19:30Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1816110"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3403029/assets",
@@ -3530,20 +3530,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.6/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-06-06T13:35:56Z",
-        "id": 1801095,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4MDEwOTU=",
-        "size": 3284415,
-        "state": "uploaded",
-        "updated_at": "2016-06-06T13:38:25Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1801095"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.6/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-06-06T13:35:56Z",
@@ -3556,6 +3542,20 @@
         "updated_at": "2016-06-06T13:38:25Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1801094"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.6/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-06-06T13:35:56Z",
+        "id": 1801095,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE4MDEwOTU=",
+        "size": 3284415,
+        "state": "uploaded",
+        "updated_at": "2016-06-06T13:38:25Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1801095"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3381541/assets",
@@ -3579,20 +3579,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0-rc.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-05-30T13:06:06Z",
-        "id": 1765734,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3NjU3MzQ=",
-        "size": 3558021,
-        "state": "uploaded",
-        "updated_at": "2016-05-30T13:07:13Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1765734"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0-rc.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-05-30T13:05:44Z",
@@ -3605,6 +3591,20 @@
         "updated_at": "2016-05-30T13:07:13Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1765724"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.3.0-rc.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-05-30T13:06:06Z",
+        "id": 1765734,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE3NjU3MzQ=",
+        "size": 3558021,
+        "state": "uploaded",
+        "updated_at": "2016-05-30T13:07:13Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1765734"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3333149/assets",
@@ -3628,20 +3628,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.5/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-04-30T11:50:40Z",
-        "id": 1621332,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE2MjEzMzI=",
-        "size": 3281888,
-        "state": "uploaded",
-        "updated_at": "2016-04-30T11:51:59Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1621332"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.5/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-04-30T11:50:40Z",
@@ -3654,6 +3640,20 @@
         "updated_at": "2016-04-30T11:51:59Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1621331"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.5/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-04-30T11:50:40Z",
+        "id": 1621332,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE2MjEzMzI=",
+        "size": 3281888,
+        "state": "uploaded",
+        "updated_at": "2016-04-30T11:51:59Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1621332"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/3133205/assets",
@@ -3677,20 +3677,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.4/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-04-01T10:13:20Z",
-        "id": 1497491,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDE0OTc0OTE=",
-        "size": 3279259,
-        "state": "uploaded",
-        "updated_at": "2016-04-01T10:13:51Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1497491"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.4/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-04-01T10:13:30Z",
@@ -3703,6 +3689,20 @@
         "updated_at": "2016-04-01T10:13:51Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1497492"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.4/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-04-01T10:13:20Z",
+        "id": 1497491,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDE0OTc0OTE=",
+        "size": 3279259,
+        "state": "uploaded",
+        "updated_at": "2016-04-01T10:13:51Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1497491"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/2932249/assets",
@@ -3726,20 +3726,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.3/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-02-21T21:35:29Z",
-        "id": 1337543,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzMzc1NDM=",
-        "size": 3258736,
-        "state": "uploaded",
-        "updated_at": "2016-02-21T21:36:44Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1337543"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.3/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-02-21T21:36:21Z",
@@ -3752,6 +3738,20 @@
         "updated_at": "2016-02-21T21:36:44Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1337546"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.3/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-02-21T21:35:29Z",
+        "id": 1337543,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEzMzc1NDM=",
+        "size": 3258736,
+        "state": "uploaded",
+        "updated_at": "2016-02-21T21:36:44Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1337543"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/2658519/assets",
@@ -3775,20 +3775,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.2/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-01-31T09:38:13Z",
-        "id": 1261965,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEyNjE5NjU=",
-        "size": 3179457,
-        "state": "uploaded",
-        "updated_at": "2016-01-31T09:39:12Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1261965"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.2/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-01-31T09:37:51Z",
@@ -3801,6 +3787,20 @@
         "updated_at": "2016-01-31T09:39:12Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1261964"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.2/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-01-31T09:38:13Z",
+        "id": 1261965,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEyNjE5NjU=",
+        "size": 3179457,
+        "state": "uploaded",
+        "updated_at": "2016-01-31T09:39:12Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1261965"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/2524275/assets",
@@ -3824,20 +3824,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-01-14T18:30:47Z",
-        "id": 1211389,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDEyMTEzODk=",
-        "size": 3257459,
-        "state": "uploaded",
-        "updated_at": "2016-01-14T18:32:08Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1211389"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-01-14T18:30:45Z",
@@ -3850,6 +3836,20 @@
         "updated_at": "2016-01-14T18:32:08Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1211388"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-01-14T18:30:47Z",
+        "id": 1211389,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDEyMTEzODk=",
+        "size": 3257459,
+        "state": "uploaded",
+        "updated_at": "2016-01-14T18:32:08Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1211389"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/2429532/assets",
@@ -3873,20 +3873,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2016-01-01T10:56:57Z",
-        "id": 1169193,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDExNjkxOTM=",
-        "size": 3251450,
-        "state": "uploaded",
-        "updated_at": "2016-01-01T10:58:20Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1169193"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2016-01-01T10:57:55Z",
@@ -3899,6 +3885,20 @@
         "updated_at": "2016-01-01T10:58:20Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1169195"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.2.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2016-01-01T10:56:57Z",
+        "id": 1169193,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDExNjkxOTM=",
+        "size": 3251450,
+        "state": "uploaded",
+        "updated_at": "2016-01-01T10:58:20Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/1169193"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/2360956/assets",
@@ -3922,20 +3922,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.1.1/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2015-09-28T21:36:08Z",
-        "id": 900440,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDkwMDQ0MA==",
-        "size": 2927293,
-        "state": "uploaded",
-        "updated_at": "2015-09-28T21:37:27Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/900440"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.1.1/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2015-09-28T21:37:05Z",
@@ -3948,6 +3934,20 @@
         "updated_at": "2015-09-28T21:37:27Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/900445"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.1.1/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2015-09-28T21:36:08Z",
+        "id": 900440,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDkwMDQ0MA==",
+        "size": 2927293,
+        "state": "uploaded",
+        "updated_at": "2015-09-28T21:37:27Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/900440"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/1879839/assets",
@@ -3971,20 +3971,6 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.1.0/Precompiled.zip",
-        "content_type": "application/zip",
-        "created_at": "2015-09-25T08:56:00Z",
-        "id": 892700,
-        "label": null,
-        "name": "Precompiled.zip",
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDg5MjcwMA==",
-        "size": 2926646,
-        "state": "uploaded",
-        "updated_at": "2015-09-25T08:57:11Z",
-        "uploader": "josevalim",
-        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/892700"
-      },
-      {
         "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.1.0/Docs.zip",
         "content_type": "application/zip",
         "created_at": "2015-09-25T08:56:49Z",
@@ -3997,6 +3983,20 @@
         "updated_at": "2015-09-25T08:57:11Z",
         "uploader": "josevalim",
         "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/892702"
+      },
+      {
+        "browser_download_url": "https://github.com/elixir-lang/elixir/releases/download/v1.1.0/Precompiled.zip",
+        "content_type": "application/zip",
+        "created_at": "2015-09-25T08:56:00Z",
+        "id": 892700,
+        "label": null,
+        "name": "Precompiled.zip",
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDg5MjcwMA==",
+        "size": 2926646,
+        "state": "uploaded",
+        "updated_at": "2015-09-25T08:57:11Z",
+        "uploader": "josevalim",
+        "url": "https://api.github.com/repos/elixir-lang/elixir/releases/assets/892700"
       }
     ],
     "assets_url": "https://api.github.com/repos/elixir-lang/elixir/releases/1866517/assets",
